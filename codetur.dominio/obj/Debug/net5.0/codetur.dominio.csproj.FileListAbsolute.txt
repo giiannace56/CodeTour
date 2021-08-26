@@ -13,3 +13,11 @@ C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.
 C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.dll
 C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\ref\codetur.dominio.dll
 C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.pdb
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.csproj.AssemblyReference.cache
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.AssemblyInfoInputs.cache
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.AssemblyInfo.cs
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.csproj.CoreCompileInputs.cache
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.dll
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\ref\codetur.dominio.dll
+C:\Users\52410141870\Desktop\codetour\codetur.dominio\obj\Debug\net5.0\codetur.dominio.pdb

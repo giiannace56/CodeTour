@@ -1,0 +1,6 @@
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.csproj.AssemblyReference.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.AssemblyInfoInputs.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.AssemblyInfo.cs
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.csproj.CoreCompileInputs.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Api\obj\Debug\net5.0\CodeTur.Api.MvcApplicationPartsAssemblyInfo.cache

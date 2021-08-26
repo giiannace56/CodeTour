@@ -10,3 +10,11 @@ C:\Users\moniq\Desktop\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.cspr
 C:\Users\moniq\Desktop\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.dll
 C:\Users\moniq\Desktop\CodeTur\CodeTur.Comum\obj\Debug\net5.0\ref\CodeTur.Comum.dll
 C:\Users\moniq\Desktop\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.pdb
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.csproj.AssemblyReference.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.AssemblyInfoInputs.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.AssemblyInfo.cs
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.dll
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\ref\CodeTur.Comum.dll
+C:\Users\52410141870\Desktop\codetour\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.pdb
