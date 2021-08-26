@@ -1,0 +1,15 @@
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\codetur.dominio.deps.json
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\codetur.dominio.dll
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\ref\codetur.dominio.dll
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\codetur.dominio.pdb
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\CodeTur.Comum.dll
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\bin\Debug\net5.0\CodeTur.Comum.pdb
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.csproj.AssemblyReference.cache
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.AssemblyInfoInputs.cache
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.AssemblyInfo.cs
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.csproj.CoreCompileInputs.cache
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.csproj.CopyComplete
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.dll
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\ref\codetur.dominio.dll
+C:\Users\moniq\Desktop\CodeTur\codetur.dominio\obj\Debug\net5.0\codetur.dominio.pdb
