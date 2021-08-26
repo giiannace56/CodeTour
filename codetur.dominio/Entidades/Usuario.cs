@@ -76,17 +76,5 @@ namespace codetur.dominio
                 Nome = Nome;
             }
         }
-
-        //Adicionando algo na lista(Comentarios com Spam
-        //Usuario pode apenas comentar 1 comentário por pacote
-        public void AdicionarComentario(Comentario comentario)
-        {
-            //Expressão lambda
-            if (_Comentarios.Any(x => x.IdUsuario == comentario.IdUsuario))
-            {
-                AddNotification("Comentários", "Usuario pode comentar apenas uma vez ");
-            }
-        }
-
     }
 }
